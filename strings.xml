@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auto Read Scroll</string>
+    <string name="accessibility_service_label">Auto Read Scroll Service</string>
+    <string name="accessibility_service_description">Automatically scrolls pages and apps at a comfortable reading speed when you turn it on.</string>
+</resources>
